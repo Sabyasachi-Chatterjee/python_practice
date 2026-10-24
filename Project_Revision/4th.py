@@ -1,0 +1,6 @@
+p = int(input("Enter a Principal Amount = "))
+r = int(input("Enter a Rate of Interest = "))
+t = int(input("Enter a Time Period = "))
+SI = ((p*r*t)/100)
+A = (SI + p)
+print("The Simple Interest is = ", SI, "and the Amount is = ",A)

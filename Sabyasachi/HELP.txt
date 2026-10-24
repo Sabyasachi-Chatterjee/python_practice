@@ -1,0 +1,4 @@
+List - [1,2,3,4,"5",0.6]
+Tuple - (1,2,3,4,"5",0.6)
+Dictionary - {key1:value1, key2:value2, key3:value3}
+Set - {1,6,0,4,7,3,2,8}
